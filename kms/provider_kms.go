@@ -1,7 +1,7 @@
 package kms
 
 import (
-	"code.google.com/p/go-uuid/uuid"
+	"github.com/google/uuid"
 	"crypto/rand"
 	"encoding/json"
 	"errors"

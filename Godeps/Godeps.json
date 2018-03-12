@@ -1,0 +1,28 @@
+{
+	"ImportPath": "github.com/Inflatablewoman/go-kms",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/google/uuid",
+			"Comment": "0.2-21-gdec09d7",
+			"Rev": "dec09d789f3dba190787f8b4454c7d3c936fed9e"
+		},
+		{
+			"ImportPath": "github.com/miekg/pkcs11",
+			"Rev": "6dbd569b952ec150d1425722dbbe80f2c6193f83"
+		},
+		{
+			"ImportPath": "github.com/rcrowley/go-metrics",
+			"Rev": "8732c616f52954686704c8645fe1a9d59e9df7c1"
+		},
+		{
+			"ImportPath": "github.com/rcrowley/go-tigertonic",
+			"Rev": "fe6b9f080eb79c071836be5c3e2e534dbdbcddd6"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/pbkdf2",
+			"Rev": "91a49db82a88618983a78a06c1cbd4e00ab749ab"
+		}
+	]
+}
