@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/Inflatablewoman/go-kms",
+	"ImportPath": "github.com/irotem/go-kms",
 	"GoVersion": "go1.10",
 	"GodepVersion": "v80",
 	"Deps": [
