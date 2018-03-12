@@ -158,7 +158,7 @@ func (cp KMSCryptoProvider) ListKeys() ([]KeyMetadata, error) {
 func (cp KMSCryptoProvider) CreateKey(description string) (KeyMetadata, error) {
 
 	// Create a new key id
-	keyID := uuid.New()
+	keyID := uuid.New().String()
 
 	// Create metadata
 	keyMetadata := KeyMetadata{
